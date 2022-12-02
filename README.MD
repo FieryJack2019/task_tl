@@ -8,7 +8,7 @@
   * Для запуска тестов введите команду `python3 manage.py test`
 
 ## Сборка и запуск
-  * Клонируем репозитория git clone https://github.com/FieryJack2019/task-tl-group
+  * Клонируем репозитория git clone https://github.com/FieryJack2019/task-tl
   * Заполняем файл **.env** на основе **.env_template** в папке *src*
   * Собираем докер образ `docker-compose up -d --build`
   
